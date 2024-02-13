@@ -1,0 +1,4 @@
+company: zig
+project: dc-apps
+application: amazone-s3
+aws_region: eu-central-1
